@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "Eeme",
+    "SHORT" : "NEEKERÖINTI",
+    "DESCRIPTION" : "RASISMI SUOMI",
+    "DISABLED" : false,
+    "NAME" : "Insult",
+    "INSTALL_MSG" : "Usage: `[p]nege <user>`"
+}
